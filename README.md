@@ -7,7 +7,9 @@ This is a full-stack online quiz application with separate **frontend** and **ba
 /online-quiz-system
 │
 ├── quix-app/ ← Frontend (HTML/CSS/JavaScript)
+
 ├── quiz/ ← Backend (Java/Spring boot)
+
 └── .gitignore
 
 ## 🚀 How to Run the Project
@@ -21,7 +23,9 @@ Follow these steps to run the application on your local machine:
 
 ### 🔹 2. Start the Frontend (HTML/CSS/JS)
 1.Open this folder(quiz-app) in Visual Studio Code
+
 2.Open index.html and start a local server:
+
 3.Click on "Go Live"  in VS Code
 
 ###  About Database(MySQL)
