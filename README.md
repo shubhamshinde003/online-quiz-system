@@ -16,12 +16,13 @@ Follow these steps to run the application on your local machine:
 
 ### 🔹 1. Start the Backend (Spring Boot)
 1.Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse)
+
 2.Run the Spring Boot application
 
 ### 🔹 2. Start the Frontend (HTML/CSS/JS)
 1.Open this folder(quiz-app) in Visual Studio Code
-Open index.html and start a local server:
-Click on "Go Live"  in VS Code
+2.Open index.html and start a local server:
+3.Click on "Go Live"  in VS Code
 
 ###  About Database(MySQL)
 -Store all questions , options and their answers in mysql database
