@@ -6,11 +6,10 @@ This is a full-stack online quiz application with separate **frontend** and **ba
 
 /online-quiz-system
 │
+
 ├── quix-app/ ← Frontend (HTML/CSS/JavaScript)
 
-├── quiz/ ← Backend (Java/Spring boot)
-
-└── .gitignore
+├── quiz/ ← Backend (Java/Spring boot)└── .gitignore
 
 ## 🚀 How to Run the Project
 
